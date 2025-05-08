@@ -10,7 +10,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 - **Spectre Simulator** (for circuit simulation)  
 
 ### Process Design Kit (PDK)
-- CMOS technology library (e.g., 180nm, 45nm node)  
+- CMOS technology  library (e.g., 180nm, 45nm node)  
 
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
